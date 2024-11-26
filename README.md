@@ -67,7 +67,7 @@ docker push fuukeidaisuki/l4t-jetpack-r36.2.0-yolonas-tensorrt:v1.1
 docker push fuukeidaisuki/l4t-jetpack-r36.2.0-yolonas-onnxruntme:v1.0
 ```
 
-## 3.6 YOLOXのTRT変換・推論する環境(jetpack-r36.2.0)
+### 3.6 YOLOXのTRT変換・推論する環境(jetpack-r36.2.0)
 [fuukeidaisuki/l4t-jetpack-r36.2.0-yolox-trt](https://hub.docker.com/repository/docker/fuukeidaisuki/l4t-jetpack-r36.2.0-yolox-trt/general)
 ```bash
 docker push fuukeidaisuki/l4t-jetpack-r36.2.0-yolox-trt:v1.2
