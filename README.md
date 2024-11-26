@@ -38,7 +38,7 @@ docker push fuukeidaisuki/libtorch-dev-ubuntu22.04:cpu
 
 ## 3. Jetson向けのイメージ
 ### 3.1 JetsonでD-FINEのTensorRT変換・推論する環境(jetpack-r35.4.1)
-[fuukeidaisuki/l4t-jetpack-r35.4.1-dfine-tensorr](https://hub.docker.com/repository/docker/fuukeidaisuki/l4t-jetpack-r35.4.1-dfine-tensorrt/general):
+[fuukeidaisuki/l4t-jetpack-r35.4.1-dfine-tensorrt](https://hub.docker.com/repository/docker/fuukeidaisuki/l4t-jetpack-r35.4.1-dfine-tensorrt/general)
 ```bash
 docker push fuukeidaisuki/l4t-jetpack-r35.4.1-dfine-tensorrt:v1.0
 ```
